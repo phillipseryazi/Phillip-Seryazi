@@ -22,12 +22,12 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 - Python (FastAPI,Flask,Django)
 
 #### Connect
-<a href="https://www.linkedin.com/in/phillipseryazi/">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/phillipseryazi/">LinkedIn</a>
 
 #### Learning goals
-- ML
-- Game development (Unity first)
+- 🔭 ML
+- 💜 Game development (Unity first)
 
 #### Fun fact
-- Boromir, Faramir and Ecthelion are actually Elven names. 😄
+- 🤔 Boromir, Faramir and Ecthelion are actually Elven names. 
 
