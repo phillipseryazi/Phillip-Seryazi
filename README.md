@@ -21,6 +21,9 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 - Kotlin/Android
 - Python (FastAPI,Flask,Django)
 
+#### Connect
+<a href="https://www.linkedin.com/in/phillipseryazi/">LinkedIn</a>
+
 #### Learning goals
 - ML
 - Game development (Unity first)
