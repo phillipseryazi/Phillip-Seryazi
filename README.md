@@ -5,7 +5,7 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 #### Currently working on.
 <a href="https://github.com/phillipseryazi/JusticeApp">Justice App</a>
 
-### Previously worked on.
+#### Previously worked on.
 <a href="https://healios.io/dreams/">dreaMS</a>
 - xyz
 <a href="https://play.google.com/store/apps/details?id=org.treeo.treeo">Treeo</a>
