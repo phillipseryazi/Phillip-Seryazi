@@ -1,4 +1,4 @@
-### Hello, Phillip Seryazi here
+### Hello, Phillip Seryazi here 👋
 ---
 I am a developer straight out of Kampala, Uganda. Building ntive android apps is my core competency though I like to go for a spin in the python environment from time to time, building back-end APIs and so on.
 
@@ -16,4 +16,15 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 
 <a href="https://play.google.com/store/apps/details?id=org.treeo.treeo">Treeo</a>
 - An environmentalist app that provides useful information to farmers about what effect they are having on the environment especially by planting trees. The app calculates the amount of carbon each farmer takes out of the atmosphere by planting trees. The app also provides farmers with useful learning information on tree raring in the form of video and audio learning courses. 
+
+#### My stack 
+- Kotlin/Android
+- Python (FastAPI,Flask,Django)
+
+#### Learning goals
+- ML
+- Game development (Unity first)
+
+#### Fun fact
+- Boromir, Faramir and Ecthelion are actually ELven names. 😄
 
