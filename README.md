@@ -26,5 +26,5 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 - Game development (Unity first)
 
 #### Fun fact
-- Boromir, Faramir and Ecthelion are actually ELven names. 😄
+- Boromir, Faramir and Ecthelion are actually Elven names. 😄
 
