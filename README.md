@@ -8,7 +8,7 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 - Added video recording with cameraX api
 - Added for you page where users e.g lawyers can browse and select cases
 - Added direct message feature where good samritans can privately interact with the less fortunate and afflicted
-- and more...
+- and more
 <br>
 #### Previously worked on.
 <a href="https://healios.io/dreams/">dreaMS</a>
