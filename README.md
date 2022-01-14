@@ -1,6 +1,6 @@
 ### Hello, Phillip Seryazi here 👋
 ---
-I am a developer straight out of Kampala, Uganda. Building ntive android apps is my core competency though I like to go for a spin in the python environment from time to time, building back-end APIs and so on.
+I am a developer straight out of Kampala, Uganda. Building native android apps is my core competency though I like to go for a spin in the python environment from time to time, building back-end APIs and more.
 
 #### Currently working on.
 <a href="https://github.com/phillipseryazi/JusticeApp">Justice App</a>
@@ -27,6 +27,7 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 #### Learning goals
 - 🔭 ML
 - 💜 Game development (Unity first)
+- 🌱 Golang
 
 #### Fun fact
 - 🤔 Boromir, Faramir and Ecthelion are actually Elven names. 
