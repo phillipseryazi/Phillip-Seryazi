@@ -12,7 +12,7 @@ I am a developer straight out of Kampala, Uganda. Building ntive android apps is
 
 #### Previously worked on.
 <a href="https://healios.io/dreams/">dreaMS</a>
-- A gamified app with a collection of smaller games like running and walking challenges, math puzzles and vision games (identifying shapes at different distances). 
+- A gamified app with a collection of smaller games like running and walking challenges, math puzzles and vision games (identifying shapes at different distances) all to help treat multiple sclerosis. 
 
 <a href="https://play.google.com/store/apps/details?id=org.treeo.treeo">Treeo</a>
 - An environmentalist app that provides useful information to farmers about what effect they are having on the environment especially by planting trees. The app calculates the amount of carbon each farmer takes out of the atmosphere by planting trees. The app also provides farmers with useful learning information on tree raring in the form of video and audio learning courses. 
